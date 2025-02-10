@@ -14,4 +14,4 @@ data:
   # Enables application status badge feature
   statusbadge.enabled: "true"
   context: |
-    argocdUrl: "https://potential-broccoli-7x4p7wpq5q3xx9p-30100.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER"  
+    argocdUrl: "https://potential-broccoli-7x4p7wpq5q3xx9p-30100.app.github.dev"  
